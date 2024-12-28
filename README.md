@@ -20,7 +20,7 @@ B-paint is a simple painting application created in Python using the Tkinter lib
 
 ## Installation
    ```bash
-   git clone https://github.com/syntax01001/Bpaint.git
+   git clone https://github.com/syntax-15/Bpaint.git
    cd Bpaint
    pip install -r requirements.txt
    python setup.py
