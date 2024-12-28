@@ -24,29 +24,6 @@ B-paint is a simple painting application created in Python using the Tkinter lib
    ```bash
    git clone https://github.com/syntax01001/Bpaint.git
    cd Bpaint
-Install the required libraries:
-
-bash
-
-Verify
-
-Open In Editor
-Run
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-
-Verify
-
-Open In Editor
-Run
-Copy code
-python main.py
-Usage
-After launching the application, a window with a blank canvas will open.
-Select a tool from the "Tools" menu and start drawing.
-Change the color by clicking on a color button or selecting a color using the color chooser dialog.
-Save your image using the "File" -> "Save" menu.
-Open an existing image using the "File" -> "Open" menu
+   pip install -r requirements.txt
+   python setup.py
+   python main.py
