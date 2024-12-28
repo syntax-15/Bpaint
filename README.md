@@ -19,8 +19,6 @@ B-paint is a simple painting application created in Python using the Tkinter lib
 - Pillow library (install using `pip install Pillow`)
 
 ## Installation
-
-1. Clone the repository:
    ```bash
    git clone https://github.com/syntax01001/Bpaint.git
    cd Bpaint
