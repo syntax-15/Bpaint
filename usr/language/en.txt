@@ -1,0 +1,21 @@
+Language: Language
+Preferences Saved: Preferences saved
+Select Language: Select Language:
+Select Theme: Select Theme:
+Brush: Brush
+Pencil: Pencil
+Spray: Spray
+Eraser: Eraser
+Rectangle: Rectangle
+Circle: Circle
+Text: Text
+File: File
+Open: Open
+Save: Save
+Exit: Exit
+Choose Color: Choose Color
+Tools: Tools
+Light: Light
+Dark: Dark
+Brush Size: Brush Size
+Color: Color

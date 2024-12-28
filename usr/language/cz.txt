@@ -1,0 +1,21 @@
+Language: Jazyk
+Preferences Saved: Preference uloženy
+Select Language: Vyberte jazyk:
+Select Theme: Vyberte téma:
+Brush: Štětec
+Pencil: Tužka
+Spray: Sprej
+Eraser: Guma
+Rectangle: Obdélník
+Circle: Kruh
+Text: Text
+File: Soubor
+Open: Otevřít
+Save: Uložit
+Exit: Konec
+Choose Color: Vyberte barvu
+Tools: Nástroje
+Light: Světlé
+Dark: Tmavé
+Brush Size: Velikost štětce
+Color: Barva
